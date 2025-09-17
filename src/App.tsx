@@ -1,3 +1,11 @@
+// export default function App() {
+//   return (
+//     <div className="bg-red-500 min-h-screen flex items-center justify-center">
+//       <h1 className="text-white text-3xl font-bold">Hello Tailwind!</h1>
+//     </div>
+//   );
+// }
+
 // import React from "react";
 
 // Rimmon Bhosale - Single-file React portfolio (Tailwind CSS + Framer Motion + shadcn style)
