@@ -1,4 +1,4 @@
-import React from "react";
+// import React from "react";
 
 // Rimmon Bhosale - Single-file React portfolio (Tailwind CSS + Framer Motion + shadcn style)
 // Usage: place this file in a Create React App / Vite + Tailwind project (e.g. pages/index.jsx for github pages)
